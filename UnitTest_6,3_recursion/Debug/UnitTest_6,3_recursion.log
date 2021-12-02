@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest_6,3_recursion.cpp
+C:\Users\lytvy\source\repos\6,3_recursion\6,3_recursion.cpp(75): warning C4715: first_pair: значение возвращается не при всех путях выполнения
+C:\Users\lytvy\source\repos\6,3_recursion\6,3_recursion.cpp(90): warning C4715: max: значение возвращается не при всех путях выполнения
+C:\Users\lytvy\source\repos\6,3_recursion\6,3_recursion.cpp(22): warning C4715: first_pair0<int>: значение возвращается не при всех путях выполнения
+C:\Users\lytvy\source\repos\6,3_recursion\6,3_recursion.cpp(38): warning C4715: max0<int>: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\lytvy\source\repos\6,3_recursion\Debug\UnitTest_6,3_recursion.lib и объект C:\Users\lytvy\source\repos\6,3_recursion\Debug\UnitTest_6,3_recursion.exp
+  UnitTest_6,3_recursion.vcxproj -> C:\Users\lytvy\source\repos\6,3_recursion\Debug\UnitTest_6,3_recursion.dll
